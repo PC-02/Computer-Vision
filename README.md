@@ -3,7 +3,9 @@
 # Requirements
 ```
 pip install -r req.txt
-//Or 
+
+// OR 
+ 
 pip3 install -r req.txt
 ```
 
@@ -13,7 +15,7 @@ For Motion Detection:
 ```
 python3 detect.py
 
-OR
+// OR
 
 python3 detect2.py
 ```
